@@ -20,3 +20,12 @@
 
 [高性能MySQL(第3版).pdf](https://pan.baidu.com/s/12MfSIGRuc_TK5SZte1GtYw?pwd=an4m)
 
+[算法导论(第2版 中文).pdf](https://pan.baidu.com/s/1rj6vvZrau8Ga2672BtwQ6w?pwd=u98j)
+
+[编写可读代码的艺术.pdf](https://pan.baidu.com/s/1kOfEEVA59UbzmjHczOWjRA?pwd=ec2q)
+
+[Head First 设计模式(中文版).pdf](https://pan.baidu.com/s/1U8CgBmo_FSRvB6yDq8qTAQ?pwd=te8a)
+
+[剑指offer 名企面试官精讲典型编程题.pdf](https://pan.baidu.com/s/14G09ZdIHuHOb4olnIpUtTA?pwd=7rki)
+
+
