@@ -13,3 +13,10 @@
 [代码大全 第2版.pdf](https://pan.baidu.com/s/12P70yrj3o2iCNX1er1HsTw?pwd=iag2)
 
 [Essential Java.《Java 编程要点》.pdf](https://pan.baidu.com/s/1j5NHIRsL8tphTWkLZXKhaQ?pwd=vysy)
+
+[Java并发编程的艺术(方腾飞).pdf](https://pan.baidu.com/s/17FQE6BlZQjN0VvPgIX3UeA?pwd=995h)
+
+[设计模式+可复用面向对象软件的基础.pdf](https://pan.baidu.com/s/1tdhbO2XHzZf3VAwtsl6UYQ?pwd=qv2y)
+
+[高性能MySQL(第3版).pdf](https://pan.baidu.com/s/12MfSIGRuc_TK5SZte1GtYw?pwd=an4m)
+
