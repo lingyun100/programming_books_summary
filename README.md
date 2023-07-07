@@ -1,4 +1,4 @@
-# 觉得有帮助的别忘了star一下哦
+# 如果有所助益，免费的star可以来一个
 
 # programming_books_summary
 
